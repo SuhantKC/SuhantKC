@@ -4,7 +4,6 @@
 
 🔹 Passionate about building scalable web & mobile apps  
 🔹 Exploring **Python** & **Spring Boot** for backend development  
-🔹 Experimenting with **Neovim** & **Manjaro** for an optimized dev workflow  
 
 ---
 
